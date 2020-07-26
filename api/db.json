@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "abc",
+      "description": "this is a great stsream",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "other stream ",
+      "id": 4
+    },
+    {
+      "title": "createe this stream",
+      "description": "this was made by on refactoring",
+      "id": 5
+    },
+    {
+      "title": "createe this stream",
+      "description": "this was made by me second time",
+      "userId": "111599070632645322302",
+      "id": 6
+    },
+    {
+      "title": "unexpectedf behaviour",
+      "description": "didnt expect that",
+      "userId": null,
+      "id": 7
+    },
+    {
+      "title": "after history",
+      "description": "programmatic navigation",
+      "userId": "111599070632645322302",
+      "id": 8
+    }
+  ]
+}
